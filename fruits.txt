@@ -1,2 +1,4 @@
 apple
 coconut
+banana
+orange
